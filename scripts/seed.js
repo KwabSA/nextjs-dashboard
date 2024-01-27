@@ -1,3 +1,4 @@
+// CREATE Postgres Database tables and populate with data from 'placeholder-data.js'
 const { db } = require('@vercel/postgres');
 const {
   invoices,
